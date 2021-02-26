@@ -1,1 +1,1 @@
-<?php include_once("all_projects.html"); ?>
+<?php include_once("all_tenants.html"); ?>
